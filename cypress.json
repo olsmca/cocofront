@@ -1,0 +1,10 @@
+{
+  "projectId": "tx7i7n",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/results",
+    "overwrite": false,
+    "html": true,
+    "json": true
+  }
+}
